@@ -1,0 +1,133 @@
+header{
+    width:100%;
+    height:100px;
+    background-color:white;
+    box-shadow:2px 2px 4px lightgray;
+    text-align:center;
+
+}
+
+header img{
+    margin-top:20px;
+    margin-bottom:20px;
+    height:50px;
+    padding-left:40px;
+}
+
+.login{
+    float:right;
+    margin-top:65px;
+    margin-right:20px;
+    font-size:18px;
+}
+
+body{
+    background-color:#f8f8f8;
+}
+
+main{
+    clear:left;
+    width:100%;
+}
+
+.box1{
+    margin:0 auto;
+    width:850px;
+    border:2px solid lightgray;
+    background-color:white;
+    border-radius:10px;
+    margin-top:40px;
+    margin-bottom:40px;
+    box-shadow:4px 4px lightgray;
+}
+
+.box2{
+    border-bottom:2px solid lightgray;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+h2{
+    text-align:center;
+    border-bottom:3px solid #31A263;
+    font-size:30px;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+
+.picture{
+    display:inline-block;
+    border: 2px solid lightgray;
+    text-align:center;
+    margin-top:20px;
+    margin-left:75px;
+}
+
+.picture img{
+    width:140px;
+    padding:5px;;
+}
+
+.info{
+    display:inline-block;
+    margin-top:30px;
+    padding-left:40px;
+    margin-bottom:20px;
+    font-size:20px;
+}
+
+.hello{
+    margin-left:40px;
+    font-size:20px;
+}
+
+.comments{
+    margin-left:20px;
+    margin-right:20px;
+    padding-top:30px;
+    padding-bottom:20px;
+}
+
+.formbox{
+    border:2px solid lightgray;
+    line-height:25px;
+}
+
+.button{
+    text-align:center;
+}
+
+textarea{
+    width:770px;
+    border:2px solid lightgray;
+    margin-top:30px;
+    margin-left:40px;
+}
+
+.submitbutton{
+    border:1px solid lightgray;
+    padding:6px 60px 4px 60px;
+    color:white;
+    background-color:#31A263;
+    border-radius:5px;
+    border-bottom:2px solid gray;
+    width:300px;
+    line-height:30px;
+    margin-bottom:40px;
+    margin-top:20px;
+    font-size:20px;
+}
+
+footer{
+    width:100%;
+    height:40px;
+    background-color:white;
+    color:gray;
+    text-align:center;
+    line-height:40px;
+    font-size:16px;
+    border-top:lightgray solid 2px;
+}
+
+
